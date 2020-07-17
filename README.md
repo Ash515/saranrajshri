@@ -28,13 +28,13 @@ Hi, I'm Shri Saran Raj, a Full Stack Developer 🚀 from India, currently, I'm a
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [A-POP](https://github.com/saranrajshri/SIH-2020);
+- 👨🏽‍💻 I’m currently working on [SIH-2020](https://github.com/saranrajshri/SIH-2020);
 - 🌱 I’m currently learning GraphQL and Docker.
-- 👯 I’m looking to collaborate on [A-POP](https://github.com/saranrajshri/SIH-2020) 🤝;
+- 👯 I’m looking to collaborate on [SIH-2020](https://github.com/saranrajshri/SIH-2020) 🤝;
 - 🤔 I’m good in Data Structures and Algorithms;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: shrisaranraj2001@gmail.com;
-- 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view)
+- 📝[Resume]()
 
 **Languages and Tools:**  
 
