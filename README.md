@@ -5,9 +5,6 @@
 <a href="https://www.linkedin.com/in/saranrajshri/">
   <img align="left" alt="Saran's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/saran._.raj/">
-  <img align="left" alt="Saran's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 <a href="https://leetcode.com/saranrajshri/">
   <img align="left" alt="Saran's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
