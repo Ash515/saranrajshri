@@ -27,7 +27,6 @@ Hi, I'm Shri Saran Raj, a Full Stack Developer 🚀 from India, currently, I'm a
 - 👯 I’m looking to collaborate on [Social-Network-Backend](https://github.com/saranrajshri/Social-Network-Backend) 🤝;
 - 🤔 I’m good in Data Structures and Algorithms;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: shrisaranraj2001@gmail.com;
 - 📝[Resume]()
 
 **Languages and Tools:**  
